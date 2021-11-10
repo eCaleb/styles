@@ -1,0 +1,17 @@
+#one{
+    background-image: url(beachshowcase.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+#two{
+    background-color: white;
+    color: saddlebrown;
+}
+#three{
+    background-color: saddlebrown;
+    color: white;
+}
